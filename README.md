@@ -1,6 +1,5 @@
 # MNIST Handwritten Digits Recognition - Image Classification
 
-**Complete Video Tutorial:** https://youtu.be/e1HqOjLCvms
 
 # Dataset Information
 
